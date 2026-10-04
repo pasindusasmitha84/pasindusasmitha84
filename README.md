@@ -2,6 +2,8 @@
 
 I am an undergraduate in the Department of Electronic and Telecommunication Engineering at the University of Moratuwa. My work spans across physical-layer wireless communications, software-defined radio (SDR) systems, digital hardware design, and high-performance simulation tools.
 
+My core interests lie in **telecommunications, signal processing, cybersecurity, and machine learning**.
+
 ---
 
 ### 🛠️ Technical Stack
